@@ -1,0 +1,10 @@
+lib
+dist
+es
+node_modules
+build
+package.json
+typings
+.eslintrc.js
+docz-templates
+amis-editor-analyse/**
